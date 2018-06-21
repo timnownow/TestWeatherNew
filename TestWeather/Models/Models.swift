@@ -7,6 +7,7 @@ struct Page
     var city_name:  String
 }
 
+
 struct CityFind
 {
     var city_id:    Int
